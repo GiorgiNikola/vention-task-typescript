@@ -1,0 +1,28 @@
+# Node.js modules
+node_modules/
+
+# TypeScript output files
+*.js
+*.js.map
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Users file (exclude if sensitive data is stored)
+users.json
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
